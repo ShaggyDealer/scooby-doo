@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue
+}
+
+
+
+h1 {
+    margin-left: 20px;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    color: black;
+    font-size: medium;
+}
